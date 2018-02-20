@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TCP_Port_Scanner</string>
+    <string name="action_settings">Settings</string>
+</resources>
